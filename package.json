@@ -1,0 +1,15 @@
+{
+  "name": "goit-js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task-1": "node js/task-1.js",
+    "task-2": "node js/task-2.js",
+    "task-3": "node js/task-3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
